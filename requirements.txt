@@ -1,0 +1,9 @@
+sentence-transformers
+scipy
+sounddevice
+pyttsx3
+SpeechRecognition
+pyaudio
+google-generativeai 
+python-dotenv 
+spacy
