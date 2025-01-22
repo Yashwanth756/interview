@@ -1,30 +1,32 @@
-# EduScrape Analytics
+# InterviewPrep Generator
 
-Welcome to **EduScrape Analytics**, an automated system designed to streamline the extraction, management, and visualization of student performance data. This platform helps educational institutions monitor and analyze student marks through web scraping, secure data storage, and interactive visualizations via Power BI.
+Welcome to **InterviewPrep Generator**, an intelligent system designed to help users prepare for interviews by generating custom questions based on selected topics and difficulty levels. Whether you're preparing for a technical interview, a job interview, or simply brushing up on specific topics, this system offers a personalized and efficient way to enhance your skills.
 
 ## 🚀 Project Overview
 
-**EduScrape Analytics** automates the collection of student marks from various web sources, stores the data in a centralized database, and transforms it into insightful, interactive reports using Power BI. This system eliminates the need for manual data entry, reduces errors, and enhances the ability to track student performance over time.
+**InterviewPrep Generator** dynamically generates interview questions tailored to your needs, covering specific topics and levels of difficulty (easy, medium, or hard). The system not only presents questions but also evaluates your answers, giving you a score and feedback to guide your progress. 
 
 ### Key Features:
-- **Automated Data Scraping**: Extracts student marks from reliable web sources, saving time and reducing manual errors.
-- **Centralized Data Storage**: All collected data is stored in a secure and easily accessible database.
-- **Power BI Integration**: Transforms raw data into interactive dashboards and visual reports to provide actionable insights.
-- **Data Insights**: Helps educators and administrators analyze trends, monitor performance, and make informed decisions.
-- **Scalable Solution**: Can easily be adapted to handle data from large educational institutions or small-scale setups.
+- **Customizable Question Generation**: Select your focus topics and difficulty level (easy, medium, hard).
+- **Real-Time Evaluation**: After answering, the system compares your response with predefined correct answers and gives a performance score.
+- **Personalized Feedback**: Detailed feedback to help you understand your strengths and areas for improvement.
+- **Dynamic Question Pool**: Continuously adapts to your learning progress, ensuring you receive new and relevant questions.
+- **Score Tracking**: Keep track of your performance over time, helping you identify trends and improve consistently.
 
 ## 🛠️ Technologies Used
 
-- **Web Scraping**: For collecting student marks from various online sources.
-- **Database**: For securely storing scraped data in a structured format.
-- **Power BI**: To create real-time, interactive visualizations and reports.
-- **Python**: Used for developing the web scraping logic and database interactions.
-- **SQL**: For efficient data storage and retrieval in the database.
+- **Python**: For backend logic and question generation.
+- **Natural Language Processing (NLP)**: For evaluating the correctness of user responses.
+- **SQLite**: For storing user performance and generated questions.
+- **Flask**: For building the web application and handling user interactions (if applicable).
 
 ## 🔑 Installation
 
-To run **EduScrape Analytics** on your local machine, follow these simple steps:
+To run **InterviewPrep Generator** on your local machine, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Yashwanth756/interview.git
+git clone git clone https://github.com/Yashwanth756/interview.git
+
+
+
