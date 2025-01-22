@@ -27,4 +27,4 @@ To run **EduScrape Analytics** on your local machine, follow these simple steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/edu-scrape-analytics.git
+git clone https://github.com/Yashwanth756/interview.git
